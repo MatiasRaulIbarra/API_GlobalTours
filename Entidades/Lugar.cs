@@ -9,6 +9,6 @@ namespace API.Entidades
     {
         public int Id { get; set; }
 
-        public int Nombre { get; set; }
+        public String  Nombre { get; set; }
     }
 }

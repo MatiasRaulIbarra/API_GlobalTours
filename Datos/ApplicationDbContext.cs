@@ -13,6 +13,6 @@ namespace API.Datos
         {
         }
 
-        public DbSet<Lugar> Lugar{ get; set; }
+        public DbSet<Lugar> Lugar{get;set;}
     }
 }
